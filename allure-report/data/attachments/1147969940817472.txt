@@ -1,0 +1,2 @@
+https://example.com - доступен
+https://example.com - тайтл: совпадает

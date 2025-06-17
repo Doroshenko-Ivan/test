@@ -1,0 +1,189 @@
+# Allure
+allure-report/
+allure-results/
+allure-report-*/
+**/allure/**
+**/allure-*
+**/allure-data/**
+**/allure-attachments/**
+**/allure-plugins/**
+**/allure-results.json
+**/allure-report.json
+**/allure-results.xml
+**/allure-report.xml
+
+# Директории с данными
+
+local-deposit-methods/
+local-crypto-deposit-methods/
+
+
+# Build и дистрибутив
+dist/
+
+# Node modules и зависимости
+node_modules/
+*.lock
+
+# Playwright
+playwright-report/
+test-results/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Временные файлы
+*.log
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+
+# Отчеты
+allure-report/
+allure-results/
+allure-report-*/
+**/allure/**
+**/allure-*
+**/allure-data/**
+**/allure-attachments/**
+**/allure-plugins/**
+**/allure-results.json
+**/allure-report.json
+**/allure-results.xml
+**/allure-report.xml
+
+# Директории с данными
+local-deposit-methods/
+local-crypto-deposit-methods/
+
+# Coverage
+cov/
+coverage/
+*.lcov
+
+# Dependencies
+dependencies/
+
+# Environment variables
+.env
+.env.*
+.env.*.local
+.env.local
+.env.production
+.env.development
+.env.test
+.env.staging
+.env.production.local
+.env.development.local
+.env.test.local
+.env.staging.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Reports
+reports/
+reports-*/
+*.report
+*.report.*
+*.coverage
+*.coverage.*
+
+# Test files
+*.test.*
+*.spec.*
+*.tmp.*
+*.temp.*
+*.backup.*
+*.bak.*
+*.old.*
+*.example.*
+*.sample.*
+*.template.*
+
+# Cache
+.cache/
+node_modules/.cache/
+
+# Debug
+*.pdb
+*.db
+*.dbf
+*.sqlite
+*.sqlite3
+*.sqlitedb
+
+# Build
+build/
+out/
+bin/
+obj/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sln
+*.user
+*.userosscache
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Package managers
+yarn-error.log
+yarn-debug.log*
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Coverage
+cov/
+coverage/
+*.lcov
+
+# Dependencies
+dependencies/
+
+# Environment variables
+.env
+.env.*
+.env.*.local
+.env.local
+.env.production
+.env.development
+.env.test
+.env.staging
+.env.production.local
+.env.development.local
+.env.test.local
+.env.staging.local
+
+# Reports
+reports/
+reports-*/
+*.report
+*.report.*
+*.coverage
+*.coverage.*
