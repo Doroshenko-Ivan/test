@@ -1,1 +1,0 @@
-{"total":2,"items":[{"uid":"cb6f166bf29f6178a50415d68d7aadea","name":"tests\\domain-check.spec.ts","statistic":{"failed":1,"broken":0,"skipped":0,"passed":3,"unknown":0,"total":4}},{"uid":"36c900977e1d8b81a2c6893cc82bfc01","name":"chromium","statistic":{"failed":1,"broken":0,"skipped":0,"passed":3,"unknown":0,"total":4}}]}
