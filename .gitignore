@@ -43,7 +43,7 @@ test-results/
 *.backup
 *.old
 
-# Отчеты
+# Отчеты тестов
 allure-report/
 allure-results/
 allure-report-*/
@@ -56,6 +56,17 @@ allure-report-*/
 **/allure-report.json
 **/allure-results.xml
 **/allure-report.xml
+
+# Результаты тестов Playwright
+playwright-report/
+test-results/
+**/*-result.json
+**/*-attachment.*
+**/*-test-finished.*
+**/*-report.*
+**/*-trace.*
+**/*-video.*
+**/*-screenshot.*
 
 # Директории с данными
 local-deposit-methods/
