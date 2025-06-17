@@ -71,6 +71,7 @@ test-results/
 # Директории с данными
 local-deposit-methods/
 local-crypto-deposit-methods/
+local-crypto-deposit-methods*/
 
 # Coverage
 cov/
