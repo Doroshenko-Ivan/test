@@ -1,13 +1,11 @@
-[ 
-  
+[
   {
-     "url": "https://development-cds.testpx.com/adt/c/step/1",    
-     "expectedTitle": "ADT® Home Alarm Systems | Home Security Systems Provider"
+    "url": "https://development-cds.testpx.com/adt/c/step/1",
+    "expectedTitle": "ADT® Home Alarm Systems | Home Security Systems Provider"
   },
   {
     "url": "https://development-cds.testpx.com/adt/e/step/1",
     "expectedTitle": ""
-    
   },
   {
     "url": "https://example.com",
@@ -16,5 +14,4 @@
   {
     "url": "https://nonexistentdomain12345.com"
   }
-  
 ]
