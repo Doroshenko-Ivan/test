@@ -1,7 +1,7 @@
 import { test, expect } from '../node_modules/@playwright/test';
 import domains from '../data/domains.json';
 import axios from 'axios';
-import { allure }  from '../node_modules/allure-playwright';
+import { allure } from '../node_modules/allure-playwright';
 
 
 
