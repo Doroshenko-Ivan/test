@@ -1,0 +1,22 @@
+[
+     {
+          "name": "div.footer_info/span(1)/a",
+          "loc": "//div[@class='footer_info']/span[1]/a",
+          "text": " Privacy Policy "
+     },
+     {
+          "name": "div.footer_info/span(3)/a",
+          "loc": "//div[@class='footer_info']/span[3]/a",
+          "text": "Terms of Use"
+     },
+     {
+          "name": "div.footer_info/span(5)/a",
+          "loc": "//div[@class='footer_info']/span[5]/a",
+          "text": "Licenses"
+     },
+     {
+          "name": "div.footer_info/span(7)/a",
+          "loc": "//div[@class='footer_info']/span[7]/a",
+          "text": "Communication Opt Out"
+     }
+]
