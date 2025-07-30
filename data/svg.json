@@ -1,0 +1,22 @@
+[
+     {
+          "name": "section.campaign-main]",
+          "loc": "//section[@class='campaign-main']",
+          "url": "background-image.webp"
+     },
+     {
+          "name": "div.planlogo.theft",
+          "loc": "//div[@class='plan-logo theft']",
+          "url": "appv2_theft-blue.svg"
+     },
+     {
+          "name": "div.planlogo.monitor",
+          "loc": "//div[@class='plan-logo monitor']",
+          "url": "Icon 3.svg"
+     },
+     {
+          "name": "div.planlogo.back",
+          "loc": "//div[@class='plan-logo back']",
+          "url": "150-years-icon.svg"
+     }
+]
