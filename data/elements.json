@@ -1,5 +1,174 @@
 [
      {
+          "name": "span.phone",
+          "loc": "span.phone",
+          "text": "(833) 556-8550"
+     },
+     {
+          "name": "p.title",
+          "loc": "p.title",
+          "text": "ADT DIY Starting at $199*"
+     },
+     {
+          "loc": "p.subtitle",
+          "text": "1 mo. monitoring req. at $24.99"
+     },
+     {
+          "name": "p.light",
+          "loc": "p.light",
+          "text": "Additional terms below"
+     },
+     {
+          "name": "div.form-title/span",
+          "loc": "//div[@class='form-title']/span",
+          "text": " Choose your property type: "
+     },
+     {
+          "name": "span.label(Homeowner)",
+          "loc": "//div[@title='Homeowner']/span",
+          "text": "Homeowner"
+     },
+     {
+          "name": "span.labelRental)",
+          "loc": "//div[@title='Rental']/span",
+          "text": "Rental"
+     },
+     {
+          "name": "div.plan-body(1)//srtong",
+          "loc": "//div[@class='plans-wrapper']/div[1]/div[2]/p/strong",
+          "text": "Theft protection guarantee†"
+     },
+     {
+          "name": "div.plan-body(1)//span",
+          "loc": "//div[@class='plans-wrapper']/div[1]/div[2]/p/span",
+          "text": "† Terms and conditions apply, see below for terms."
+     },
+     {
+          "name": "div.plan-body(2)//srtong",
+          "loc": "//div[@class='plans-wrapper']/div[2]/div[2]/p/strong",
+          "text": "6-month, money-back guarantee**"
+     },
+     {
+          "name": "div.plan-body(2)//span",
+          "loc": "//div[@class='plans-wrapper']/div[2]/div[2]/p/span",
+          "text": "** Applies after ADT has made attempts to resolve a system related issue. Requires purchase and continual monthly payment of both QSP and professional monitoring at time of activation to be eligible. See below for terms."
+     },
+     {
+          "name": "div.plan-body(3)//span",
+          "loc": "//div[@class='plans-wrapper']/div[3]/div[2]/p/strong",
+          "text": "150+ years of experience"
+     },
+     {
+          "name": "h4.offer-title",
+          "loc": "//h4[@class='offer-title']",
+          "text": "Home security starts with you."
+     },
+     {
+          "name": "h6.offer-subtitle",
+          "loc": "//h6[@class='offer-subtitle']",
+          "text": "Help protect your home. Get professional home security with an easy DIY setup."
+     },
+     {
+          "name": "button.cta-button/span",
+          "loc": "//div[@class='offer-banner-right']//span",
+          "text": "SHOP NOW"
+     },
+     {
+          "name": "h2",
+          "loc": "h2",
+          "text": " ADT DIY "
+     },
+     {
+          "name": "h3",
+          "loc": "h3",
+          "text": " (Do It Yourself) "
+     },
+     {
+          "name": "p.trusted-neighbor__text",
+          "loc": "//p[@class='trusted-neighbor__text']",
+          "text": " Installation you can do yourself. Security and a name you can trust. The best of both worlds, system starting at $199*. "
+     },
+     {
+          "name": "p.trusted-neighbor__note",
+          "loc": "//p[@class='trusted-neighbor__note']",
+          "text": " Terms Below  "
+     },
+     {
+          "name": "button.cta-button(2)/span",
+          "loc": "//article[@class='trusted-neighbor__info']//span",
+          "text": "SHOP NOW"
+     },
+     {
+          "name": "p.news_subtitle",
+          "loc": "//p[@class='news_subtitle']",
+          "text": "FOR ALL DIY PACKAGES"
+     },
+     {
+          "name": "span.guarantee_text(1)",
+          "loc": "//div[@class='guarantees_container']/div[1]/span",
+          "text": " No long term contracts, cancel anytime "
+     },
+     {
+          "name": "span.guarantee_text(2)",
+          "loc": "//div[@class='guarantees_container']/div[2]/span",
+          "text": " Easy installation, no heavy duty tools needed "
+     },
+     {
+          "name": "span.guarantee_text(3)",
+          "loc": "//div[@class='guarantees_container']/div[3]/span",
+          "text": " 24/7 ADT Pro monitoring contacts 911 for you "
+     },
+     {
+          "name": "h4.count-title",
+          "loc": "//h4[@class='count-title']",
+          "text": "ADT DIY Starting at $199*"
+     },
+     {
+          "name": "h6.count-subtitle",
+          "loc": "//h6[@class='count-subtitle']",
+          "text": "1 mo. monitoring req. at $24.99"
+     },
+     {
+          "name": "p.count-text",
+          "loc": "//p[@class='count-text']",
+          "text": " Additional terms below "
+     },
+     {
+          "name": "div.count-button-container",
+          "loc": "//div[@class='count-button-container']/button",
+          "text": "SHOP NOW"
+     },
+     {
+          "name": "span#access_btn",
+          "loc": "//span[@id='access_btn']",
+          "text": " Accessibility "
+     },
+     {
+          "name": "div.footer_text/p.text(1)",
+          "loc": "//div[@class='footer_text']/p[1]",
+          "text": "* $199 DIY Security Starter Package: Requires month-to-month monitoring contract for DIY systems starting at $24.99 (one month minimum) and enrollment in ADT EasyPay. Professional installation not available. Security Starter Package includes one (1) ADT Base, three (3) door/window sensors, and one (1) motion detector ($349 total value). Total cost $199 plus applicable taxes after promotion is applied and depending on geographic location. Additional products added to the package incur additional cost. Offer available for new customers only. Professional monitoring required for ADT to notify emergency contacts or services on your behalf. Service charges vary depending on system configuration, equipment and services selected. Cancel by calling (888) 392-2039 or by following the instructions in your order confirmation email. Free shipping applies to standard shipping (approx. 5-7 business days) and not available in HI or AK. Some features, including mobile notifications require working internet, Wi-Fi and ADT+ App. Offer expires 8/5/2025. "
+     },
+     {
+          "name": "div.footer_text/p.text(2)",
+          "loc": "//div[@class='footer_text']/p[2]",
+          "text": "†Theft Protection Guarantee: Customer may receive reimbursement of up to five hundred dollars ($500) of Customer’s homeowner’s insurance deductible (if any) if, and only if, ALL requirements for Theft Protection Guarantee are met to ADT’s reasonable satisfaction. Requires purchase and continual monthly payment of professional monitoring from the time of original activation to be eligible. Customer must request reimbursement within 60 days of property loss. Request must be mailed to ADT and include: Theft Protection Guarantee certificate signed by Customer, a letter from Customer requesting reimbursement, a copy of the police report, and a copy of the accepted insurance claim. ADT reserves the right to reject any application for reimbursement that does not comply with all of the requirements. "
+     },
+     {
+          "name": "div.footer_text/p.text(3)",
+          "loc": "//div[@class='footer_text']/p[3]",
+          "text": "**ADT Money-Back Guarantee: Money-back guarantee only applies after ADT has made attempts to resolve a system-related issue and has not been able to resolve that issue within the first six (6) months of your original activation. Requires purchase and continual monthly payment of both QSP (Quality Service Plan, ADT’s extended limited warranty) and professional monitoring from the time of original activation. ADT Money-Back Guarantee is not transferable. Equipment must be returned before a refund will be processed. Conditions preventing normal system operation cannot be caused by the customer. "
+     },
+     {
+          "name": "div.footer_text/p.text(4)",
+          "loc": "//div[@class='footer_text']/p[4]",
+          "text": "General: Additional charges may apply in areas that require guard response service for municipal alarm verification. Prices subject to change and may vary by market. Local permit fees may be required. Satisfactory credit history required. A security deposit may be required. Offers not available in all markets. Simulated screen images and photos are for illustrative purposes only. "
+     },
+     {
+          "name": "div.flex-icons-box",
+          "loc": "//div[@class='flex-icons-box']/p",
+          "text": " ©2025 ADT LLC. ADT and the ADT logo are registered marks. Unauthorized use is strictly prohibited. License information available at www.ADT.com/legal or by calling 800.ADT.ASAP. MA 7242C; NC 763994-CSA, Alarm Systems Licensing Board of the State of North Carolina; NY 12000305615, 12000261120; PA 090797; MS 15019511."
+     },
+     {
           "name": "div.footer_info/span(1)/a",
           "loc": "//div[@class='footer_info']/span[1]/a",
           "text": " Privacy Policy "
