@@ -1,0 +1,62 @@
+[
+     {
+          "name": "img.header_logo",
+          "alt": "ADT Logo",
+          "loc": "//img[@class='header_logo']",
+          "src": "assets/images/logoadt.svg"
+     },
+     {
+          "name": "span.number'/img",
+          "alt": "Call us now",
+          "loc": "//span[@class='number']/img",
+          "src": "assets/images/phone.svg"
+     },
+     {
+          "name": "img(alt='Homeowner')",
+          "alt": "Homeowner",
+          "loc": "[alt='Homeowner']",
+          "src": "assets/images/icon-Homeowner.svg"
+     },
+     {
+          "name": "img(alt='Rental')",
+          "alt": "Rental",
+          "loc": "[alt='Rental']",
+          "src": "assets/images/icon-Rental.svg"
+     },
+     {
+          "name": "img(alt='ADT Products')",
+          "alt": "ADT Products",
+          "loc": "[alt='ADT Products']",
+          "src": "assets/images/adt-products-image.webp"
+     },
+     {
+          "name": "img(alt='Protection guarantee icon')",
+          "alt": "Protection guarantee icon",
+          "loc": "[alt='Protection guarantee icon']",
+          "src": "assets/images/contracts-1.webp"
+     },
+     {
+          "name": "img(alt='Easy Setup icon')",
+          "alt": "Easy Setup icon",
+          "loc": "[alt='Easy Setup icon']",
+          "src": "assets/images/setup-2.webp"
+     },
+     {
+          "name": "img(alt='Monitoring icon')",
+          "alt": "Monitoring icon",
+          "loc": "[alt='Monitoring icon']",
+          "src": "assets/images/monitoring-3.webp"
+     },
+     {
+          "name": "img(alt='Accessibility icon')",
+          "alt": "Accessibility icon",
+          "loc": "[alt='Accessibility icon']",
+          "src": "assets/images/accessibility-icon.svg"
+     },
+     {
+          "name": "img(alt='Accredited Business BBB')",
+          "alt": "Accredited Business BBB",
+          "loc": "[alt='Accredited Business BBB']",
+          "src": "assets/images/footer-icons.png"
+     }
+]
